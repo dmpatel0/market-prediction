@@ -3,10 +3,10 @@
 .idea
 .env
 .env.local
-.csv
-.xlsx
-.xls
-.doc
-.docx
-.ppt
-.pptx
+*.csv
+*.xlsx
+*.xls
+*.doc
+*.docx
+*.ppt
+*.pptx
