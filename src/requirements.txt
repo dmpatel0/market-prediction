@@ -1,0 +1,9 @@
+jupyter
+ipykernel
+pandas
+yfinance
+tqdm
+ipywidgets
+ta-lib
+plotly
+scikit-learn
