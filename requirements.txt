@@ -7,3 +7,7 @@ ipywidgets
 ta-lib
 plotly
 scikit-learn
+torch
+matplotlib
+seaborn
+xgboost
